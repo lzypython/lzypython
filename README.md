@@ -43,9 +43,9 @@
 <img align="right" width="256" src="assets/images/me.jpg" />
 
 <p>Hi everyone, I'm Li Zhiyang, currently a first-year graduate student at the University of Science and Technology of China, focusing on Multimodal AI, Large Language Models, and RAG research. You can find my published papers on my <a href="https://scholar.google.com/citations?user=qJpBakEAAAAJ&hl=zh-CN" target="_blank">Google Scholar</a> profile.
-<p>&emsp;&emsp;I'm passionate about programming, cycling, and traveling. I'm currently learning swimming and hope to master breaststroke by the end of this year.
-<p>&emsp;&emsp;I pursue work-life balance, which I believe is both an aspiration and a capability.
-<p>&emsp;&emsp;<strong>I hope to become an outstanding developer in the future while still maintaining a full head of hair.</strong></p>
+<p>I'm passionate about programming, cycling, and traveling. I'm currently learning swimming and hope to master breaststroke by the end of this year.
+<p>I pursue work-life balance, which I believe is both an aspiration and a capability.
+<p><strong>I hope to become an outstanding developer in the future while still maintaining a full head of hair.</strong></p>
 </td></tr>
 
 <tr><td>
