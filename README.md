@@ -17,17 +17,17 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://blog.csdn.net/weixin_63866037?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/CSDN-8c36db" /></a>&emsp;
-    <a href="https://aistudio.baidu.com/personalcenter/thirdview/3016969"><img src="https://img.shields.io/badge/AI Studio 百度飞桨-8c36db" /></a>&emsp;
+    <a href="https://blog.csdn.net/weixin_63866037?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/CSDN主页-8c36db" /></a>&emsp;
+    <a href="https://aistudio.baidu.com/personalcenter/thirdview/3016969"><img src="https://img.shields.io/badge/AI Studio 百度飞桨主页-8c36db" /></a>&emsp;
     <a href="https://lzypython-github-io.vercel.app/"><img src="https://img.shields.io/badge/个人主页-8c36db" /></a>&emsp;
 
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/lzypython/lzypython/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/lzypython/lzypython/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/lzypython/lzypython/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 
 </div>
