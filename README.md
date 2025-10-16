@@ -46,7 +46,13 @@
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
-
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <!-- 左侧文本内容 -->
+    哈喽，大家好，我是李志扬...
+  </div>
+  <img width="256" src="assets/images/me.jpg" />
+</div>
 </td></tr>
 
 <tr><td>
