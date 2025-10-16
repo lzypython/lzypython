@@ -42,11 +42,10 @@
 
 <img align="right" width="256" src="assets/images/me.jpg" />
 
-<p>&emsp;&emsp;嗨，大家好，我是李志扬，目前是中国科学技术大学的一名研一学生，研究方向是多模态&大模型&RAG。</p>
-<p>&emsp;&emsp;我热爱编程，骑车，旅行，目前正在学习游泳，希望今年底能学会蛙泳。</p>
-<p>&emsp;&emsp;我追求Work life balance ，我认为这是一种追求也是一种能力。</p>
-<p>&emsp;&emsp;<strong>希望未来自己能成为一名优秀的开发者，依然有一顶浓郁的头发</strong></p>
-
+<p>&emsp;&emsp;Hi everyone, I'm Li Zhiyang, currently a first-year graduate student at the University of Science and Technology of China, focusing on Multimodal AI, Large Language Models, and RAG research.</p>
+<p>&emsp;&emsp;I'm passionate about programming, cycling, and traveling. I'm currently learning swimming and hope to master breaststroke by the end of this year.</p>
+<p>&emsp;&emsp;I pursue work-life balance, which I believe is both an aspiration and a capability.</p>
+<p>&emsp;&emsp;<strong>I hope to become an outstanding developer in the future while still maintaining a full head of hair.</strong></p>
 </td></tr>
 
 <tr><td>
