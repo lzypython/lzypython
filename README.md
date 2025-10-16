@@ -42,10 +42,10 @@
 
 <img align="right" width="256" src="assets/images/me.jpg" />
 
-<p>&emsp;&emsp;嗨，大家好，我是小孙同学。热爱编程、摄影、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p>&emsp;&emsp;嗨，大家好，我是李志扬，目前是中国科学技术大学的一名研一学生，研究方向是多模态&大模型&RAG。</p>
+<p>&emsp;&emsp;我热爱编程，骑车，旅行，目前正在学习游泳，希望今年底能学会蛙泳。</p>
+<p>&emsp;&emsp;我追求Work life balance ，我认为这是一种追求也是一种能力。</p>
+<p>&emsp;&emsp;<strong>希望未来自己能成为一名优秀的开发者，依然有一顶浓郁的头发</strong></p>
 
 </td></tr>
 
