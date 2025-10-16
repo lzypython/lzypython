@@ -34,79 +34,67 @@
 
 #  🙋 Hello
 
-<div style="display: flex; flex-direction: column; gap: 30px;">
-
-<!-- About Me 部分 -->
-<div style="display: flex; align-items: center; gap: 20px; background: #f8f9fa; padding: 25px; border-radius: 10px;">
-  <div style="flex: 1;">
-    <h3>🤺 About Me</h3>
-    <p>&emsp;&emsp;嗨，大家好，我是小孙同学。热爱编程、摄影、读书、旅行。</p>
-    <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-    <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-    <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
-  </div>
-  <img width="200" src="assets/images/me.jpg" style="border-radius: 8px;" />
-</div>
-
-<!-- Work Experience 部分 -->
-<div style="background: #f8f9fa; padding: 25px; border-radius: 10px;">
-  <h3>🏢 Work Experience</h3>
+<table>
   
-  <!-- 原则科技 -->
-  <div style="display: flex; align-items: flex-start; gap: 15px; margin-bottom: 20px;">
-    <div style="flex: 1;">
-      <strong><a href="https://lusun.com/">北京原则科技有限公司</a></strong> &emsp; 📌 2024-03-04 —— 2024-08-28
-      <ul style="margin: 8px 0 0 0;">
-        <li>工作岗位：软件研发工程师</li>
-        <li>工作内容：软件开发与维护</li>
-      </ul>
-    </div>
-    <img width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/yuanze.png" style="border-radius: 6px;" />
-  </div>
-  
-  <!-- 图慧科技 -->
-  <div style="display: flex; align-items: flex-start; gap: 15px; margin-bottom: 20px;">
-    <div style="flex: 1;">
-      <strong><a href="https://www.tuhuimap.com/">广州图慧信息科技有限公司</a></strong> &emsp; 📌 2023-06-19 —— 2024-01-19
-      <ul style="margin: 8px 0 0 0;">
-        <li>工作岗位：Web 前端开发工程师</li>
-        <li>工作内容：一些杂活</li>
-      </ul>
-    </div>
-    <img width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" style="border-radius: 6px;" />
-  </div>
-  
-  <!-- 蔚来汽车 -->
-  <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <div style="flex: 1;">
-      <strong><a href="https://www.nio.cn/">蔚来汽车科技（安徽）有限公司</a></strong> &emsp; 📌 2023-02-20 —— 2023-05-12
-      <ul style="margin: 8px 0 0 0;">
-        <li>工作岗位：Web 前端开发实习生</li>
-        <li>工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作</li>
-      </ul>
-    </div>
-    <img width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" style="border-radius: 6px;" />
-  </div>
-</div>
+<tr><td>
 
-<!-- Recent Blog 部分 -->
-<div style="display: flex; align-items: flex-start; gap: 20px; background: #f8f9fa; padding: 25px; border-radius: 10px;">
-  <div style="flex: 1;">
-    <h3>📃 Recent Blog</h3>
-    <!-- feed start -->
-    <ul style="margin: 0;">
-      <li>Mar 18 - <a href="https://guoqi.dev/posts/kunlunchao/">昆仑巢「疯狂星期六」，没有人是一座孤岛～</a></li>
-      <li>Mar 10 - <a href="https://guoqi.dev/posts/yuanze/">你好，北京！你好，原则科技！一切都是最好的安排！</a></li>
-      <li>Feb 20 - <a href="https://guoqi.dev/posts/2023/">行则将至，未来可期，和 2023 好好说声再见吧！</a></li>
-      <li>Feb 16 - <a href="https://guoqi.dev/posts/xizang/">西藏之旅｜青春没有售价，火车直达拉萨！</a></li>
-      <li>Jan 03 - <a href="https://guoqi.dev/posts/zhuhai/">珠海之旅｜去感受风，去聆听海，去触摸，去抵达</a></li>
-    </ul>
-    <!-- feed end -->
-  </div>
-  <img width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" style="border-radius: 6px;" />
-</div>
+### 🤺 About Me
 
-</div>
+<img align="right" width="256" src="assets/images/me.jpg" />
+
+<p>&emsp;&emsp;嗨，大家好，我是小孙同学。热爱编程、摄影、读书、旅行。</p>
+<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
+<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+
+</td></tr>
+
+<tr><td>
+
+### 🏢 Work Experience
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/yuanze.png" />
+
+- [北京原则科技有限公司](https://lusun.com/) &emsp; 📌 2024-03-04 —— 2024-08-28
+
+  - 工作岗位：软件研发工程师
+  - 工作内容：软件开发与维护
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
+
+- [广州图慧信息科技有限公司](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— 2024-01-19
+
+  - 工作岗位：Web 前端开发工程师
+  - 工作内容：一些杂活
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
+
+- [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-12
+
+  - 工作岗位：Web 前端开发实习生
+  - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
+
+</td></tr>
+
+<tr><td>
+
+### 📃 Recent Blog
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
+
+<!-- feed start -->
+- Mar 18 - [昆仑巢「疯狂星期六」，没有人是一座孤岛～](https://guoqi.dev/posts/kunlunchao/)
+- Mar 10 - [你好，北京！你好，原则科技！一切都是最好的安排！](https://guoqi.dev/posts/yuanze/)
+- Feb 20 - [行则将至，未来可期，和 2023 好好说声再见吧！](https://guoqi.dev/posts/2023/)
+- Feb 16 - [西藏之旅｜青春没有售价，火车直达拉萨！](https://guoqi.dev/posts/xizang/)
+- Jan 03 - [珠海之旅｜去感受风，去聆听海，去触摸，去抵达](https://guoqi.dev/posts/zhuhai/)
+<!-- feed end -->
+
+
+
+</td></tr>
+
+</table>
 
 
 <!-- ########################################## 分割 ########################################## -->
