@@ -55,16 +55,14 @@
 
 <tr><td>
 
-### 📃 Recent Blog
+### 📃 Annual Summary
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- feed start -->
-- Mar 18 - [昆仑巢「疯狂星期六」，没有人是一座孤岛～](https://guoqi.dev/posts/kunlunchao/)
-- Mar 10 - [你好，北京！你好，原则科技！一切都是最好的安排！](https://guoqi.dev/posts/yuanze/)
-- Feb 20 - [行则将至，未来可期，和 2023 好好说声再见吧！](https://guoqi.dev/posts/2023/)
-- Feb 16 - [西藏之旅｜青春没有售价，火车直达拉萨！](https://guoqi.dev/posts/xizang/)
-- Jan 03 - [珠海之旅｜去感受风，去聆听海，去触摸，去抵达](https://guoqi.dev/posts/zhuhai/)
+- Mar 18 - [2024年度总结——理想的风，吹进现实](https://lizhiyang.blog.csdn.net/article/details/145319862)
+- Mar 10 - [2023年度总结——忙忙碌碌，终有归章](https://lizhiyang.blog.csdn.net/article/details/135893193)
+- Feb 20 - [2022年度总结——一切都在慢慢变好](https://lizhiyang.blog.csdn.net/article/details/128625661)
 <!-- feed end -->
 
 
