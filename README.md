@@ -17,9 +17,8 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://blog.csdn.net/weixin_63866037?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/Website-CSDN-8c36db" /></a>&emsp;
-    <a href="https://wechat.guoqi.dev"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://blog.csdn.net/weixin_63866037?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/CSDN-8c36db" /></a>&emsp;
+    <a href="https://aistudio.baidu.com/personalcenter/thirdview/3016969"><img src="https://img.shields.io/badge/AIStudio" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
     <!-- wakatime -->    
