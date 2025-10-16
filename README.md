@@ -44,6 +44,7 @@
 <img align="right" width="256" src="assets/images/me.jpg" />
 
 <p>Hi everyone, I'm Li Zhiyang, currently a first-year graduate student at the University of Science and Technology of China, focusing on Multimodal AI, Large Language Models, and RAG research. You can find my published papers on my <a href="https://scholar.google.com/citations?user=qJpBakEAAAAJ&hl=zh-CN" target="_blank">Google Scholar</a> profile.
+<p>You can visit my <a href="https://blog.csdn.net/weixin_63866037?spm=1000.2115.3001.5343" target="_blank">CSDN Blog</a> to get something you need ! I am also a member of PaddlePaddle Developer Experts(Baidu), you can visit my <a href="https://aistudio.baidu.com/personalcenter/thirdview/3016969" target="_blank">Aistudio</a>!
 <p>I'm passionate about programming, cycling, and traveling. I'm currently learning swimming and hope to master breaststroke by the end of this year.
 <p>I pursue work-life balance, which I believe is both an aspiration and a capability.
 <p><strong>I hope to become an outstanding developer in the future while still maintaining a full head of hair.</strong></p>
