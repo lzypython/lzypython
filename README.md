@@ -2,7 +2,7 @@
 
   <!-- dynamic typing effect 动态打字效果 -->
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小孙同学祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);HappyEveryDay!&center=true&size=27)](https://git.io/typing-svg)
 
 
   <!-- knock code pictures 敲代码的图片 -->
@@ -18,11 +18,8 @@
   <!-- profile logo 个人资料徽标 -->
   <div>
     <a href="https://blog.csdn.net/weixin_63866037?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/CSDN-8c36db" /></a>&emsp;
-    <a href="https://aistudio.baidu.com/personalcenter/thirdview/3016969"><img src="https://img.shields.io/badge/AIStudio" /></a>&emsp;
-    <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-    <!-- wakatime -->    
-    <a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
+    <a href="https://aistudio.baidu.com/personalcenter/thirdview/3016969"><img src="https://img.shields.io/badge/AI Studio 百度飞桨-8c36db" /></a>&emsp;
+    <a href="https://lzypython-github-io.vercel.app/"><img src="https://img.shields.io/badge/个人主页-8c36db" /></a>&emsp;
 
   </div>
 
