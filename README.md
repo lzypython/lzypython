@@ -49,17 +49,7 @@
 <p><strong>I hope to become an outstanding developer in the future while still maintaining a full head of hair.</strong></p>
 </td></tr>
 
-<tr><td>
 
-
-</td></tr>
-
-<tr><td>
-
-
-
-
-</td></tr>
 
 </table>
 
