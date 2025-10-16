@@ -95,9 +95,9 @@
 
 <!-- profile-3d-contrib 3D 贡献图-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/lzypython/lzypython/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/lzypython/lzypython/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/lzypython/lzypython/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg" />
+  <img src=lzypython/profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
 </div>
@@ -111,11 +111,3 @@
 - Mar 10 - [2023年度总结——忙忙碌碌，终有归章](https://lizhiyang.blog.csdn.net/article/details/135893193)
 - Feb 20 - [2022年度总结——一切都在慢慢变好](https://lizhiyang.blog.csdn.net/article/details/128625661)
 <!-- feed end -->
-
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/lzypython/lzypython/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lzypython/lzypython>/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/lzypython/lzypython/output-3d-contrib/day.svg" />
-	</picture>
-</p>
